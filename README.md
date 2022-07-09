@@ -1,6 +1,6 @@
 # Analysis-of-Titanic-Dataset
 
-Exploratory Data Analysis of the Titanic: Machine Learning From Disaster Dataset with Python
+Exploratory Data Analysis of the Titanic: Machine Learning From Disaster Dataset in 20 questions with Python
 
 # Question 1 all the information that belongs to the first five passengers
 
